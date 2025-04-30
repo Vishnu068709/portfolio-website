@@ -1,0 +1,24 @@
+.portfolio-website/src/styles/Skills.css
+.skills-container {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.skills-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.skills-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills-list-item {
+    font-size: 18px;
+    margin: 5px 0;
+    color: #333;
+}
