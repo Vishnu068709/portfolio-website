@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a portfolio website for Vishnu, a Cloud Engineer with experience in AWS, GCP, and DevOps. The website showcases professional experience and skills.
+This is a portfolio website for me,as a Cloud Engineer with experience in AWS, GCP, and DevOps. The website showcases professional experience and skills.
 
 ## Project Structure
 
